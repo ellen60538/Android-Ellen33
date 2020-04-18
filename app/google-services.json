@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1061809495810",
+    "firebase_url": "https://ellen33-912e3.firebaseio.com",
+    "project_id": "ellen33-912e3",
+    "storage_bucket": "ellen33-912e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061809495810:android:bccd75216155812015ec1b",
+        "android_client_info": {
+          "package_name": "tw.org.iii.ellen.ellen33"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061809495810-3pe3asvbcs9gtpk1uqqdshn6fn63267k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tw.org.iii.ellen.ellen33",
+            "certificate_hash": "93156685d0f3ce3f4479217571e61f5f76b2eeba"
+          }
+        },
+        {
+          "client_id": "1061809495810-kf7ld1c8ncc3o6fvq9krnl6o7tfm0ob2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFXVxtmmyLovgxumZSAlM4LyowjAmE310"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061809495810-kf7ld1c8ncc3o6fvq9krnl6o7tfm0ob2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
