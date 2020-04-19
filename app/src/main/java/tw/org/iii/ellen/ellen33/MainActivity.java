@@ -1,4 +1,5 @@
 package tw.org.iii.ellen.ellen33;
+//利用MyService繼承FirebaseMessagingService進行推播
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.NotificationCompat;
